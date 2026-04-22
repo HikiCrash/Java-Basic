@@ -5,4 +5,8 @@ public class Student {
     public String name;
     public int grade;
     public String address;
+
+    public void ShowInfo(){
+        System.out.println(name + ":" + address);
+    }
 }
