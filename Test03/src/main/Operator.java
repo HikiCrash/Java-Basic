@@ -1,7 +1,7 @@
 package main;
 
 public class Operator {
-    public static void main(String[] arts){
+    public static void main(String[] args){
         int oprNum01 = 1;
         int oprNum02 = 1;
         int oprNum03 = 1;
